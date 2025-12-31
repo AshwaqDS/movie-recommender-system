@@ -1,3 +1,13 @@
-# Movie Recommender System 🎬
+# 🎬 Movie Recommender System
 
-Content-based movie recommendation system built with Python, Streamlit, and TMDb data. Suggests similar movies based on metadata like title, genres, cast and overview, with an interactive web UI.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommender-system-7vcwarbc3uefz5wpwwxrax.streamlit.app/)
+
+Content-based movie recommendation system. Pick any movie → Get 5 similar recommendations instantly!
+
+## Tech Stack
+- Python, Pandas, Scikit-learn
+- Streamlit Web App
+- TMDB Dataset (4800+ movies)
+
+## 🚀 Live Demo
+https://movie-recommender-system-7vcwarbc3uefz5wpwwxrax.streamlit.app
